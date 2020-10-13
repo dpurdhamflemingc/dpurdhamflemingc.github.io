@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+Work
+</head>
+<body>
+<h1>Work</h1>
+<p>I have worked many jobs in the past</p>
+<!-- Navigation bar to take you to different pages -->
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#Work">Work</a></li>
+  <li><a href="Leisure.html">Leisure</a></li>
+  <li><a href="#Education">Education</a></li>
+</ul>
+</body>
+
+
+<p>I worked at Lowes this Summer.</P>
