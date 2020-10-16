@@ -11,14 +11,16 @@
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
-/* Column CSS inspired by w3schools */
+/* Column CSS inspired by w3schools. Came up with values by messing around with the border when the website was open*/
 .column {
 	border-right-style: solid;
+	border-left-style: solid;
 	border-color: lightblue;
+	border-right-width: 5px;
 	border-right-width: 5px;
 text-align: center;
   float: left;
-  width: 50%;
+  width: 49%;
 }
 .row:after {
   content:"";
