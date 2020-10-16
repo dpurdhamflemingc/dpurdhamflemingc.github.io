@@ -5,7 +5,7 @@ h1.logo {
   float: left;
 padding: 20px;
   width: 50%
-
+}
 .row:after {
   content:"";
   display: table;
