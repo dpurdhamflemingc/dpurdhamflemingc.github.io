@@ -30,4 +30,10 @@ ul {
 	float: right;
 	width: 300px;
 }
+/* These values were determined by playing with the element.style in the url */
+.img1853 {
+	width: 60%;
+	margin: auto;
+	padding-left: 300px;
+}
 	
