@@ -18,8 +18,6 @@
 .bodydiv {
 	text-align: center;
 	margin-top: 30px;
-	width: 850px;
-	padding-left: 320px;
 }
 /* Column CSS inspired by w3schools. Came up with values by messing around with the border when the website was open*/
 .columnleft {
