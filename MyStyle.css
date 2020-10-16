@@ -1,3 +1,12 @@
 h1.logo {
 	font-family: Mistral, Mariah Regular, sans-serif;
 }
+.column {
+  float: left;
+  width: 50%
+
+.row:after {
+  content:"";
+  display: table;
+  clear: both;
+}
