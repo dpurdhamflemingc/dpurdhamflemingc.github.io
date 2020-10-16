@@ -3,6 +3,7 @@ h1.logo {
 }
 .column {
   float: left;
+padding: 20px;
   width: 50%
 
 .row:after {
