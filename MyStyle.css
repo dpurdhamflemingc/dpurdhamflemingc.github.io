@@ -11,3 +11,6 @@ text-align: center;
   display: table;
   clear: both;
 }
+.navbar {
+	float: left;
+}
