@@ -7,9 +7,6 @@
 	text-align: center;	
 }
 
-<link rel="stylesheet" 
-href="../Marvel/Marvel-Regular.ttf">
-
 .namediv {
 	font-family: Marvel;
 	text-align: center;
@@ -47,7 +44,7 @@ href="../Marvel/Marvel-Regular.ttf">
 	line-height: 40px;
 	text-decoration: none;
 	padding: 20px;
-	border
+	list-style-type: none;
 }
 .img0808 {
 	float: right;
