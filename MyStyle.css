@@ -22,7 +22,7 @@
 }
 .columnright {
 	text-align: center;
-	float: right;
+	float: left;
 .row:after {
   content:"";
   display: table;
