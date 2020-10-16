@@ -24,6 +24,8 @@
 	text-align: center;
 	float: left;
 	width: 49.7%;
+	height: 373px;
+}
 .row:after {
   content:"";
   display: table;
