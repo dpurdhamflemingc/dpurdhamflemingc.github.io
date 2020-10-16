@@ -6,6 +6,13 @@
 	color: white;
 	text-align: center;	
 }
+
+.namediv {
+	text-align: center;
+	color: lightblue;
+	font-size: 40px;
+	
+	
 .bodydiv {
 	text-align: center;
 	margin-top: 30px;
@@ -31,7 +38,7 @@
   display: table;
   clear: both;
 }
-ul {
+.ul {
 	line-height: 40px;
 	text-decoration: none;
 	padding: 20px;
