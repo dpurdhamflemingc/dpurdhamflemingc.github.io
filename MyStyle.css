@@ -1,3 +1,4 @@
+/* Logo inspiration from https://www.ajafrost.com/ */
 .logo {
 	font-family: Mistral, Mariah Regular, sans-serif;
 	font-size: 90px;
@@ -7,6 +8,7 @@
 }
 .bodydiv {
 	text-align: center;
+/* Column CSS inspired by w3schools */
 }
 .column {
 text-align: center;
@@ -23,5 +25,7 @@ ul {
 	text-decoration: none;
 	padding: 0;	
 }
-
+.img0808 {
+	float: right;
+}
 	
