@@ -1,5 +1,10 @@
 .logo {
 	font-family: Mistral, Mariah Regular, sans-serif;
+	font-size: 30px;
+	background-color: lightblue;
+	color: white;
+	text-align: center;
+	
 }
 .column {
 text-align: center;
@@ -12,7 +17,7 @@ text-align: center;
   clear: both;
 }
 ul {
-	list-style-type: none;
+	line-height: 40px;
 	text-decoration: none;
 	padding: 0;
 }
