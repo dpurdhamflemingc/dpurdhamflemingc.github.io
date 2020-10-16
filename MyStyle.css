@@ -2,8 +2,8 @@ h1.logo {
 	font-family: Mistral, Mariah Regular, sans-serif;
 }
 .column {
+text-align: center;
   float: left;
-padding: 20px;
   width: 50%
 }
 .row:after {
