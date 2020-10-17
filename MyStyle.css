@@ -68,11 +68,7 @@
 	width: 300px;
 	max-width:100%
 }
-@media screen and (max-width:800px) {
-  .img0808, .img0958 {
-    width:100%;
-	}
-}
+
 /* These values were determined by playing with the element.style in the url */
 .img1853 {
 	width: 50%;
@@ -91,4 +87,8 @@
 	margin-left: 5px;
 	max-width:100%
 }	
-	
+@media screen and (max-width:800px) {
+  .img0808, .img0958, .img1853 {
+    width:100%;
+	}
+}	
