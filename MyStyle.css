@@ -71,8 +71,10 @@
 
 /* These values were determined by playing with the element.style in the url */
 .img1853 {
+	display:block;
 	width: 50%;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 	max-width:100%
 }
 .img1895 {
