@@ -66,11 +66,13 @@
 	padding-left: 300px;
 }
 .img1895 {
-	float: right;
+	float: left;
 	width: 200px;
+	margin-right: 5px;
 }
 .img1845 {
-	float: left;
+	float: right;
 	width: 300px;
+	margin-left: 5px;
 }	
 	
