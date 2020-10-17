@@ -43,7 +43,8 @@
 @media screen and (max-width:800px) {
   .columnleft, .columnright {
     width:100%;
-	max-width:100%;
+	}
+}
 	  
 .ul {
 	line-height: 40px;
