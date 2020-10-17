@@ -43,6 +43,7 @@
 @media screen and (max-width:800px) {
   .columnleft, .columnright {
     width:100%;
+	  height: 450px;
 	}
 }
 	  
