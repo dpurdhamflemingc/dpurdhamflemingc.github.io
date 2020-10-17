@@ -39,6 +39,11 @@
   display: table;
   clear: both;
 }
+/* Changes the horizontal stack of the columns to a vertical stack when the screen is smaller. Inspired from w3schools.*/
+@media screen and (max-width:800px) {
+  .columnleft, .columnright {
+    width:100%;
+	  
 .ul {
 	line-height: 40px;
 	padding: 20px;
