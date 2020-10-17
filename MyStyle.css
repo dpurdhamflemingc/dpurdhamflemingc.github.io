@@ -32,18 +32,17 @@
 	text-align: center;
 	float: left;
 	width: 49%;
-	height: 373px;
 }
 .row:after {
   content:"";
   display: table;
   clear: both;
+	padding-bottom: 10px;
 }
 /* Changes the horizontal stack of the columns to a vertical stack when the screen is smaller. Inspired from w3schools.*/
 @media screen and (max-width:800px) {
   .columnleft, .columnright {
     width:100%;
-	  height: 450px;
 	}
 }
 	  
