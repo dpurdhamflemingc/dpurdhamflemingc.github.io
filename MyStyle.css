@@ -19,7 +19,7 @@
 	text-align: center;
 	margin-top: 30px;
 }
-/* Column CSS inspired by w3schools. Came up with values by messing around with the border when the website was open*/
+/* Column CSS inspired by w3schools. Came up with values by playing with the user agent stylesheet*/
 .columnleft {
 	border-right-style: solid;
 	border-color: lightblue;
@@ -69,7 +69,7 @@
 	max-width:100%
 }
 
-/* These values were determined by playing with the element.style in the url */
+/* These values were determined by playing with the user agent stylesheet in the url */
 .img1853 {
 	display:block;
 	width: 50%;
@@ -89,6 +89,7 @@
 	margin-left: 5px;
 	max-width:100%
 }	
+/* Makes Images the full width of the screen when the width becomes less than 800px */
 @media screen and (max-width:800px) {
   .img0808, .img0958, .img1853 {
     width:100%;
